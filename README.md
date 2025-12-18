@@ -123,7 +123,7 @@ These enhancements can be introduced without altering the core design.
 ## Author
 
 **Shahriar Tahmid**
-Software Engineering Student
-Java | Spring Boot | Web Development
+*Software Engineering Student*
+*Java | Spring Boot | Web Development*
 
 GitHub: [https://github.com/ShahriarXTahmid](https://github.com/ShahriarXTahmid)
